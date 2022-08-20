@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Observable, of } from 'rxjs';
-import { TASKS } from 'app/mock';
-import { Task } from 'app/Task';
+import { TASKS } from 'mocks/mock-tasks';
+import { Task } from 'app/interfaces/Task';
 
 @Injectable({
 	providedIn: 'root',

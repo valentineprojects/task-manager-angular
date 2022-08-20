@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { Task } from 'app/Task';
+import { Task } from 'app/interfaces/Task';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
 
 @Component({

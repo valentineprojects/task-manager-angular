@@ -93,7 +93,8 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/mocks/browser.ts"
             ],
             "styles": [
               "src/styles.scss"
