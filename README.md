@@ -1,3 +1,10 @@
+# How to run?
+
+ng serve && npm run server 
+
+client on port 4200
+server on port 5000
+
 # TaskManagerAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
