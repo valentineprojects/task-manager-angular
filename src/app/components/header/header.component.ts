@@ -23,6 +23,10 @@ export class HeaderComponent implements OnInit {
 
 	toggleAddTask() {
 		this.uiService.toggleAddTask();
+		console.log(
+			'🚀 ~ file: header.component.ts ~ line 26 ~ HeaderComponent ~ toggleAddTask ~ toggleAddTask',
+			this.toggleAddTask
+		);
 	}
 
 	hasRoute(route: String) {

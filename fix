@@ -1,0 +1,95 @@
+[33mcommit 471c42acea75c37169f35ed979d78a4e52a79ec0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 20:06:17 2022 +0300
+
+    DOCS: Updated readme
+
+[33mcommit 5efff3352df2fa2c4646de46c1a20ded855b3871[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 20:00:53 2022 +0300
+
+    FIX: Hide button for other pages than home
+
+[33mcommit 496b028772afc1240e508a90530bda0889f6b41d[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 19:57:21 2022 +0300
+
+    FEAT: Footer
+
+[33mcommit 41d349a1224c043e31bf0d722e092612818cf230[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 19:53:33 2022 +0300
+
+    FEAT: About page
+
+[33mcommit c375d879183ab489504934091e396cafb0e8d685[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 19:50:18 2022 +0300
+
+    FEAT: Router
+
+[33mcommit 8be5fc6a2ddd5f81d9d4514f6bc8c09b86b4aae8[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 19:45:57 2022 +0300
+
+    FEAT: Hidding the form
+
+[33mcommit 2d9034d6d8d91f0c4597a6401b39ebd5c0a65fd5[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 19:26:33 2022 +0300
+
+    FEAT: Add task feature
+
+[33mcommit 2c71b44042f3e6a532893535637f34c35fb3ff13[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sun Aug 21 14:21:14 2022 +0300
+
+    FIX: Fixed mock server with JSON server package
+
+[33mcommit d8aa2c4de2c6a80ecc922c900a94c81975d7dd68[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sat Aug 20 15:31:10 2022 +0300
+
+    FIX: msw setup, task delele
+
+[33mcommit 282655912a457b1745f3d32d44e6b48cac385bee[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sat Aug 20 14:32:00 2022 +0300
+
+    FEAT: Mock Service Worker setup
+
+[33mcommit 674aa1b226f4bebe5ad1b732cd947ef32fc3c9ef[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Sat Aug 20 00:13:08 2022 +0300
+
+    FEAT: Added task observables
+
+[33mcommit 3c321c35ef2e3479275414a9fb91282057bcda98[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Fri Aug 19 23:22:04 2022 +0300
+
+    FIX: tsconfig absolute routing
+
+[33mcommit 7dffb419ce9caeef0eb983f3c5d731b2845ec035[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Fri Aug 19 23:11:19 2022 +0300
+
+    FEAT: Button onClick
+
+[33mcommit 457e0e0e771d524a27402c492c875e1190fb5b34[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Fri Aug 19 23:05:28 2022 +0300
+
+    FEAT: Button component, header component, global styles
+
+[33mcommit 926b9ce5ba060ea3a2fc581aee0ce4a01ae2c65a[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Fri Aug 19 18:57:57 2022 +0300
+
+    FEAT: Angular init
+
+[33mcommit 55250dc8e954a523fe6a96ed32475f709dab5e25[m
+Author: Valentinas <scenass@gmail.com>
+Date:   Fri Aug 19 18:22:10 2022 +0300
+
+    Initial commit

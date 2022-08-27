@@ -1,0 +1,16 @@
+[33m471c42a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m DOCS: Updated readme
+[33m5efff33[m FIX: Hide button for other pages than home
+[33m496b028[m FEAT: Footer
+[33m41d349a[m FEAT: About page
+[33mc375d87[m FEAT: Router
+[33m8be5fc6[m FEAT: Hidding the form
+[33m2d9034d[m FEAT: Add task feature
+[33m2c71b44[m FIX: Fixed mock server with JSON server package
+[33md8aa2c4[m FIX: msw setup, task delele
+[33m2826559[m FEAT: Mock Service Worker setup
+[33m674aa1b[m FEAT: Added task observables
+[33m3c321c3[m FIX: tsconfig absolute routing
+[33m7dffb41[m FEAT: Button onClick
+[33m457e0e0[m FEAT: Button component, header component, global styles
+[33m926b9ce[m FEAT: Angular init
+[33m55250dc[m Initial commit
